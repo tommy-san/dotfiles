@@ -2,12 +2,15 @@
 - !!python/unicode 'alfred'
 - !!python/unicode 'atom'
 - !!python/unicode 'firefox'
+- !!python/unicode 'google-chrome-canary'
 - !!python/unicode 'hipchat'
 - !!python/unicode 'imagealpha'
 - !!python/unicode 'imageoptim'
+- !!python/unicode 'ngrok'
 - !!python/unicode 'sketch'
 - !!python/unicode 'sketch-toolbox'
 - !!python/unicode 'slack'
+- !!python/unicode 'vagrant'
 - !!python/unicode 'virtualbox'
 - !!python/unicode 'xquartz'
 !!python/unicode 'formulas':
@@ -61,5 +64,6 @@
 - !!python/unicode 'zeromq'
 !!python/unicode 'taps':
 - !!python/unicode 'caskroom/cask'
+- !!python/unicode 'caskroom/versions'
 - !!python/unicode 'homebrew/dupes'
 - !!python/unicode 'homebrew/versions'
