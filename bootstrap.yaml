@@ -1,11 +1,13 @@
 !!python/unicode 'casks':
 - !!python/unicode 'alfred'
+- !!python/unicode 'android-studio'
 - !!python/unicode 'atom'
 - !!python/unicode 'firefox'
 - !!python/unicode 'google-chrome-canary'
 - !!python/unicode 'hipchat'
 - !!python/unicode 'imagealpha'
 - !!python/unicode 'imageoptim'
+- !!python/unicode 'java'
 - !!python/unicode 'ngrok'
 - !!python/unicode 'sketch'
 - !!python/unicode 'sketch-toolbox'
